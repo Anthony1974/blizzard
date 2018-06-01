@@ -1,0 +1,25 @@
+body{
+	background-image: url("7.jpg");
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+img{
+	width: 200px;
+	margin: 50px;
+}
+input{
+	width: 400px;
+	height: 40px;
+	border: 2px blue solid;
+}
+.row{
+	text-align: center;
+}
+hr{
+	border: 1px rgb(128, 128, 128) solid;
+	width: 400px;
+}
+h6{
+	text-align: center;
+}
